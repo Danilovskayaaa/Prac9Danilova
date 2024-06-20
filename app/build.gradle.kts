@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.Prac9Ptushkin"
+    namespace = "com.example.Prac9Danilova"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.Prac9Ptushkin"
+        applicationId = "com.example.Prac9Danilova"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
